@@ -1,4 +1,4 @@
-# flutter_second_task
+# flutter_second_task_spotify_clone
 
 A new Flutter project.
 

@@ -1,6 +1,6 @@
 {
-    "name": "flutter_second_task",
-    "short_name": "flutter_second_task",
+    "name": "flutter_second_task_spotify_clone",
+    "short_name": "flutter_second_task_spotify_clone",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
