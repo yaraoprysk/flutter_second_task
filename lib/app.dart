@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_second_task_spotify_clone/views/home.dart';
-//import 'package:flutter_second_task_spotify_clone/navigations/tabbar.dart';
-
 
 class App extends StatelessWidget {
   const App({Key? key}) : super(key: key);
